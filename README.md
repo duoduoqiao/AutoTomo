@@ -81,9 +81,19 @@ The CERNET dataset used for validating AutoTomo relies on resources from https:/
 
 <!-- ## FAQs -->
 
-<!-- ## Citation
+## Citation
 
 If you find this work useful in your research, please kindly cite our paper:
 
 ```
-``` -->
+@ARTICLE{10589439,
+  author={Qiao, Yan and Wu, Kui and Yuan, Xinyu},
+  journal={IEEE/ACM Transactions on Networking}, 
+  title={AutoTomo: Learning-Based Traffic Estimator Incorporating Network Tomography}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-16},
+  keywords={Estimation;Accuracy;Training;Load modeling;Training data;Volume measurement;Transforms;Traffic estimation;deep learning;learning with missing data;network tomography},
+  doi={10.1109/TNET.2024.3424446}}
+```
